@@ -189,6 +189,14 @@ body {
     background-color: #c31432;
     box-shadow: 5px 5px 22px 0 #c31432;
 }
+#video-link{
+          text-decoration: none;
+color:var(--white);
+}
+
+#video-link:hover{
+    color:var(--black);
+}
 
 
 
